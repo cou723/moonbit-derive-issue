@@ -1,0 +1,8 @@
+{
+  "import": [
+    {
+      "path": "cou723/derive-issue/lib",
+      "alias": "lib"
+    }
+  ]
+}
