@@ -7,7 +7,7 @@ There is an issue in MoonBit where when accessing types from other packages via 
 ## How to Reproduce
 
 ```bash
-moon run src/main.mbt --target native
+moon run src/main.mbt
 ```
 
 ## Expected Error
